@@ -5,4 +5,3 @@
 //   document.getElementById('signIn').addEventListener('click', function () {
 //     document.getElementById('container').classList.remove('right-panel-active');
 //   });
-  

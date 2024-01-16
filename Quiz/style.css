@@ -9,6 +9,10 @@
 
 body{
     background: #1f2029;
+    background-image: url(/img/quiz_page4.jpg);
+    background-repeat:no-repeat;
+   background-size:cover;
+    overflow-x: hidden;
 }
 
 
