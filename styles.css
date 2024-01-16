@@ -13,6 +13,11 @@ body{
 
 
 
+
+
+
+
+\\navigation bar added
 * {
   box-sizing: border-box;
 }
@@ -20,7 +25,7 @@ body{
 .nav {
   height: 50px;
   width: 100%;
-  background-color: #3482B5;
+  background-color: #061c2b;
   position: relative;
 }
 
